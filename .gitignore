@@ -1,8 +1,6 @@
 *.apk
-__pycache__/
-*.pyc
-node_modules/
-.env
-.DS_Store
+*.zip
 build/
 .gradle/
+.DS_Store
+__pycache__/

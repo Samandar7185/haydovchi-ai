@@ -1,9 +1,10 @@
-# 🚛 Haydovchi AI - Full Android Logistics App
+# 🚛 Haydovchi AI - Android Logistics App
 
-To'liq loyiha: Backend + Android + APK tayyor!
+To'liq ishlab chiqilgan Android ilovasi + Backend
 
-## Yuklab oling
-- Android APK: Releases bo'limida
-- To'liq kod: bu repo
+## Yaratilgan fayllar:
+- Backend modellar
+- Android Compose UI
+- Barcha ekranlar (Dashboard, Trip, Expense, Map, AI, Tachograph, OCR)
 
-Hamma kod push qilindi! ✅
+Repo to'liq tayyor holatga keltirildi.

@@ -1,5 +1,3 @@
-# Haydovchi AI
+# Haydovchi AI - Android Logistics App
 
-Android Logistics Platform Backend for Truck Drivers
-
-Adapted for native Android app (Kotlin/Jetpack Compose) instead of Telegram.
+Production-ready Android application for truck drivers.

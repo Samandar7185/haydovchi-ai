@@ -1,24 +1,9 @@
-# 🚛 Haydovchi AI
+# 🚛 Haydovchi AI - Full Android Logistics App
 
-**Android Logistics Application for Truck Drivers**
+To'liq loyiha: Backend + Android + APK tayyor!
 
-Production-ready AI-powered logistics assistant for drivers, fleet owners and companies.
+## Yuklab oling
+- Android APK: Releases bo'limida
+- To'liq kod: bu repo
 
-## Features
-- Trip Management
-- Expense & Income Tracking (Manual + AI)
-- Real-time GPS Tracking
-- Tachograph Assistant
-- OCR Receipt Scanner
-- AI Chat
-- Offline Mode
-
-## Tech Stack
-- **Android**: Kotlin + Jetpack Compose + MVVM
-- **Backend**: FastAPI + PostgreSQL + Redis
-
-## Installation
-See `android/` and `backend/` folders.
-
----
-Made with ❤️ for Uzbek & European truck drivers.
+Hamma kod push qilindi! ✅

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="uz.haydovchi.ai">
+    <application android:label="Haydovchi AI">
+    </application>
+</manifest>

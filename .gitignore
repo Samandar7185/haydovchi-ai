@@ -1,0 +1,15 @@
+# Android
+*.apk
+*.aab
+build/
+.gradle/
+local.properties
+
+# Backend
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
